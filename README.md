@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jmwhitney2
+- 👋 Hi, I’m Jessica Whitney
 
-- Interested in kelp forest ecology 🐟🌱, mariculture 🌊🌿, and genetics 🧬🧪. 
+- 🧬 Focused work in the Alaska mariculture industry and examining nearshore ecology through eDNA. 🐟🌿
 
 <!---
 jmwhitney2/jmwhitney2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
